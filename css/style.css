@@ -26,6 +26,14 @@ html,body {
 	line-height:1.25em;
 }
 
+.bg {
+	background-image: url("../images/nnn.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
 .sigma-parent {
 	position: relative;
 	height: 100%;
